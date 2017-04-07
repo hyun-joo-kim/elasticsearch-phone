@@ -54,7 +54,7 @@
         <dependency>
             <groupId>com.googlecode.libphonenumber</groupId>
             <artifactId>libphonenumber</artifactId>
-            <version>7.0.7</version>
+            <version>8.4.0</version>
         </dependency>
 
         <dependency>
